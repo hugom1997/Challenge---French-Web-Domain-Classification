@@ -15,6 +15,6 @@ Your task is to predict the categories to which the domains of the test set belo
 - train.csv - 2,125 labeled domain ids. One domain id and label per row.
 - test.csv - 560 domain ids of which the category must be predicted. One domain id per row.
 
-We ended up 7/45 during this challenge.
+We ended up 7/45 (104 contestants) during this challenge.
 
 In the "Team GCM French_web_domain_classification.pdf" we explained our different approaches of the problem.
